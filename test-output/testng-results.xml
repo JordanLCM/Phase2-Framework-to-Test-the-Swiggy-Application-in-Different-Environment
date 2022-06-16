@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12" started-at="2022-06-16T18:46:02 SGT" finished-at="2022-06-16T18:46:02 SGT">
+    <groups>
+    </groups>
+    <test name="Phase2-SwiggyApp" duration-ms="12" started-at="2022-06-16T18:46:02 SGT" finished-at="2022-06-16T18:46:02 SGT">
+    </test> <!-- Phase2-SwiggyApp -->
+  </suite> <!-- Suite -->
+</testng-results>
